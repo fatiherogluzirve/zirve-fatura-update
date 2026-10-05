@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.0.4",
-  "DownloadUrl": "https://github.com/fatiherogluzirve/zirve-fatura-update/releases/download/v1.0.4/ZirveFaturaSetup_v1.0.4.exe",
+  "LatestVersion": "1.0.5",
+  "DownloadUrl": "https://github.com/fatiherogluzirve/zirve-fatura-update/releases/download/v1.0.5/ZirveFaturaSetup_v1.0.5.exe",
   "ReleaseNotes": "- Otomatik güncelleme sistemi başarıyla entegre edildi.\n- Performans iyileştirmeleri yapıldı.",
   "MandatoryUpdate": true
 }
